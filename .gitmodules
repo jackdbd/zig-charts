@@ -1,0 +1,4 @@
+[submodule "packages/zig-cairo"]
+	path = packages/zig-cairo
+	url = git@github.com:jackdbd/zig-cairo.git
+	branch = main
